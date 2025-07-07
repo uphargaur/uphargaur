@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Uphar Gaur</h1>
-<h3 align="center">A passionate Android developer proficient in Golang, hailing from India. Currently working with Golang and WebRTC, creating a seamless video call app without custom SDKs.</h3>
-
+<h3 align="center">Backend Software Engineer at Syfe | Android Developer | Golang & WebRTC Enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uphargaur&label=Profile%20views&color=0e75b6&style=flat" alt="uphargaur" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uphargaur" alt="uphargaur" /></a> </p>
 
-- 🔭 I’m currently working on [Phone Police App](https://github.com/uphargaur/Phone-Police)
-
-- 🤝 I’m looking for help with **Webrtc and Connection Management With server**
-
-- 💬 Ask me about **Android , Webrtc**
-
-- 📫 How to reach me **uphargaur@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1COKRoDeWDS2UdhcWIkPD5MD6rixGxxfA/view?usp=sharing](https://drive.google.com/file/d/1COKRoDeWDS2UdhcWIkPD5MD6rixGxxfA/view?usp=sharing)
-
-- ⚡ Fun fact **I can Sleep Full Day**
+🚀 I'm currently working as SDE-1 at Syfe focusing on backend development
+💻 Previously worked on Phone Police App and video calling solutions
+🔧 Passionate about Golang, WebRTC, and Android Development
+🌱 Currently enhancing my skills in Backend Architecture, Microservices, and Distributed Systems
+🤝 Open to collaborating on WebRTC, Backend Systems, and Mobile Applications
+💬 Ask me about Golang, Android Development, WebRTC, Backend Engineering
+📫 How to reach me uphargaur@gmail.com
+📄 Know about my experiences Resume
+⚡ Fun fact I can sleep all day and still code all night!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
