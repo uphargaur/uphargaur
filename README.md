@@ -12,7 +12,7 @@
 - 🤝 Open to collaborating on **WebRTC, Backend Systems, and Mobile Applications**
 - 💬 Ask me about **Golang, Android Development, WebRTC, Backend Engineering**
 - 📫 How to reach me **uphargaur@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1COKRoDeWDS2UdhcWIkPD5MD6rixGxxfA/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1COKRoDeWDS2UdhcWIkPD5MD6rixGxxfA/view?usp=sharing](https://drive.google.com/file/d/1Wf3v5VaL7p2aU8Lsyd5I1jdLnjA62_dF/view?usp=sharing))
 - ⚡ Fun fact **I can sleep all day and still code all night!**
 
 <h3 align="left">Connect with me:</h3>
