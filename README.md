@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Uphar Gaur</h1>
-<h3 align="center">Backend Software Engineer at Syfe | Final Year CSE Student at IIIT Una | Competitive Programmer</h3>
+<h3 align="center">Backend Software Engineer at Syfe | IIIT Una  | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uphargaur&label=Profile%20views&color=0e75b6&style=flat" alt="uphargaur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uphargaur" alt="uphargaur" /></a> </p>
 
 - 🚀 I'm currently working as **SDE-1 at Syfe** (Platform Team) focusing on backend scalability and distributed systems
-- 🎓 Final year **B.Tech CSE student at IIIT Una** with 8.05 CGPA
 - 💻 Built production systems with **Redis distributed locking, Kubernetes orchestration, and CI/CD automation**
 - 🔧 Passionate about **Golang, Kotlin, WebRTC, and High-Performance Backend Systems**
-- 🌱 Previously worked at **Usthaan** and **JhalaXCorp** on full-stack and WebRTC solutions
+- 🌱 Previously worked at **Usthaan** , **JhalaXCorp** ,  **SaralX** ,  **Arima Consulting Services** , **Humors Tech (Respyr)**   on full-stack and WebRTC solutions
 - 🏆 **Semifinalist in Flipkart GRiD 5.0** | **Codeforces Pupil** with 700+ problems solved
 - 🤝 Open to collaborating on **Backend Architecture, WebRTC, Mobile Applications, and Competitive Programming**
 - 💬 Ask me about **Golang, Kotlin, WebRTC, Distributed Systems, Android Development, Competitive Programming**
@@ -29,8 +28,6 @@
 - 🏆 **Semifinalist in Flipkart GRiD 5.0** - Software Development Track
 - 🎯 **Codeforces Pupil** with 700+ problems solved
 - 🏅 **Bank of Baroda Hackathon Qualifier** - Smart Baroda Project
-- ⚽ **Captain of IIIT Una Football Team** - Inter-IIIT Sports Meet
-- 🌐 **Designed IEEE College Website** - Responsive web development
 
 ## 🔧 Key Projects
 - **Smart Baroda** - AI-powered banking app with personalized financial insights
